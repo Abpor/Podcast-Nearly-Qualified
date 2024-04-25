@@ -30,3 +30,10 @@ Podcast Pages provides a template to host your own podcast using GitHub Pages an
 
 ## License
 See the [LICENSE](LICENSE) file.
+
+------
+
+Analytics : 
+```
+https://openpodcast.dev/#/home
+```
